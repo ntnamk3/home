@@ -1,5 +1,5 @@
 # Site
-title:              Senka Wolf Cydia Repository
+title:              SakuraOSX Cydia Repository
 bio:                'A source for all my cydia creations.'
 description:        "You can find my cydia repo and more!"
 reading_time:       true
@@ -38,8 +38,8 @@ disqus_shortname:   senkawolf
   #ad-slot:
 #bing-verify:
 email:            ryan@senkawolf.com
-twitter:            Senka_Wolf
-#facebook:           username
+twitter:            SakuraOSX
+#facebook:           SakuraOSX
 github-url:         Sakura
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
